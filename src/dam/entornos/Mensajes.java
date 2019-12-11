@@ -15,7 +15,7 @@ public class Mensajes {
 		mensajeProfesor();
 		//
 		// Pon la llamada a tu método a partir de aqui
-			
+		mensajeAlumnoFila4PC2();
 		
 	}
 	
@@ -29,6 +29,16 @@ public class Mensajes {
 	}	
 	
 	// Pon tu método a partir de aqui
+
+	private static void mensajeAlumnoFila4PC2() {
+
+		System.out.println(" ______________________________________________  \n" +
+				"|                                              | \n" +
+				"|  Hola, soy Daniel Bordera Climent de 1ºDAM   | \n" +
+				"|  Os deseo a tod@s lo mejor para este 2020    | \n" +
+				"|______________________________________________|   ");
+
+	}
 	
 	
 	
